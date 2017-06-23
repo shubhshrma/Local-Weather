@@ -1,0 +1,17 @@
+body{
+	background-color:black;
+	font-family: "Dancing Script",cursive;
+
+}
+.text{
+	color:blue;
+}
+#icon{
+	margin-top:20px;
+}
+#temperature{
+	margin-top: 30px;
+}
+#wind{
+   margin-top:20px;
+}
