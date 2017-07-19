@@ -3,8 +3,12 @@ body{
 	font-family: "Dancing Script",cursive;
 
 }
-.text{
-	color:blue;
+h1{
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+#display{
+	color:white;
 }
 #icon{
 	margin-top:20px;
@@ -14,4 +18,7 @@ body{
 }
 #wind{
    margin-top:20px;
+}
+#timezone{
+	margin-top: 20px;
 }
